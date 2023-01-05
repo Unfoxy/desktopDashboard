@@ -1,0 +1,15 @@
+C:\Users\yxl13153\Documents\DesktopDashBoard\bin\Debug\DesktopDashBoard.exe.config
+C:\Users\yxl13153\Documents\DesktopDashBoard\bin\Debug\DesktopDashBoard.exe
+C:\Users\yxl13153\Documents\DesktopDashBoard\bin\Debug\DesktopDashBoard.pdb
+C:\Users\yxl13153\Documents\DesktopDashBoard\bin\Debug\DesktopDashBoard.xml
+C:\Users\yxl13153\Documents\DesktopDashBoard\obj\Debug\DesktopDashBoard.vbproj.AssemblyReference.cache
+C:\Users\yxl13153\Documents\DesktopDashBoard\obj\Debug\DesktopDashBoard.vbproj.SuggestedBindingRedirects.cache
+C:\Users\yxl13153\Documents\DesktopDashBoard\obj\Debug\DesktopDashBoard.Resources.resources
+C:\Users\yxl13153\Documents\DesktopDashBoard\obj\Debug\DesktopDashBoard.vbproj.GenerateResource.cache
+C:\Users\yxl13153\Documents\DesktopDashBoard\obj\Debug\DesktopDashBoard.vbproj.CoreCompileInputs.cache
+C:\Users\yxl13153\Documents\DesktopDashBoard\obj\Debug\DesktopDashBoard.exe
+C:\Users\yxl13153\Documents\DesktopDashBoard\obj\Debug\DesktopDashBoard.xml
+C:\Users\yxl13153\Documents\DesktopDashBoard\obj\Debug\DesktopDashBoard.pdb
+C:\Users\yxl13153\Documents\DesktopDashBoard\obj\Debug\DesktopDashBoard.mainForm.resources
+C:\Users\yxl13153\Documents\DesktopDashBoard\obj\Debug\DesktopDashBoard.copyUserDataForm.resources
+C:\Users\yxl13153\Documents\DesktopDashBoard\obj\Debug\DesktopDashBoard.Form1.resources
